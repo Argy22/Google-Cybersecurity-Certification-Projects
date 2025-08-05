@@ -1,5 +1,7 @@
 # 🛡️ Google Cybersecurity Certificate Projects
 
+***This project is currently under active development. Features and structure may change frequently and are not final.***
+
 Welcome! This repository contains my hands-on projects from the Google Professional Certificate in Cybersecurity on Coursera. Each project showcases practical skills in cybersecurity, including threat analysis, risk management, SIEM tools, and more.
 
 <br>
